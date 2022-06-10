@@ -1,3 +1,5 @@
+![giphy](https://user-images.githubusercontent.com/61853597/173034889-cf875a84-382b-452a-a53c-13e4401654bc.gif)
+
 - 👋 Hi, I’m @aymenbenrya
 - 👀 I’m interested in computer graphics and artificial intelligence
 - 🌱 I’m currently learning computer science
